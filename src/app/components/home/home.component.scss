@@ -1,3 +1,5 @@
+@import "../../../color-variables.scss";
+
 .main-section {
     display: flex;
     justify-content: center;
@@ -15,6 +17,7 @@ span {
 h1 {
     font-size: 72px;
     font-weight: 900;
+    color: $primary-color;
 
 }
 
